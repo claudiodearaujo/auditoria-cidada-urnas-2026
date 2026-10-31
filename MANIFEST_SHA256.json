@@ -1,0 +1,13 @@
+{
+  "gerado_utc": "2026-10-31T00:48:07.642322+00:00",
+  "arquivos": {
+    "auditoria_nacional_final_com_ressalvas_2026_2t.csv": "56eaadbfc9405347096c01910392245bcd568f4898010954c1e1e579b5f50b41",
+    "auditoria_nacional_final_com_ressalvas_2026_2t.json": "522cd3bdac87cf266247a571890bfbfad195dd7b5c1960ed97d974a808db7b27",
+    "METODOLOGIA_E_LIMITES.md": "b4bf0aabd9b84ee3468b381d0423eeb6ac7003765d91c52a8e5920134f1f092f",
+    "README.md": "4a818351b643c23dc0f3c74d0ef82aed8392d3bd2d7340bf9c1084616577c1cc",
+    "relatorio_final_auditoria_nacional_2026_2t_com_ressalvas.md": "8a7087d575e3db41af2bfe98e9b71fa4e862fcc4dfa10e2dad0bdedcdf45002e",
+    "ROTEIRO_VIDEO.md": "d5d51df239cbb25021c456327060b1bb9d13c5a3fe3d59d9e598aec5756f5e54",
+    "VALIDACAO_PRE_PUBLICACAO.md": "8f374e27a02a7205cf2c96a09e00b2e150693ad9c27e4dab895a78347ae5c875",
+    "validar_resultados_publicos.py": "c214fc0f35e2dc427b8e8ca4acc619606d0b55320e44b811093db319d6dbb595"
+  }
+}

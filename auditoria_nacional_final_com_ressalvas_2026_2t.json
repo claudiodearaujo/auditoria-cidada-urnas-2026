@@ -1,0 +1,322 @@
+{
+  "escopo": "Eventos individuais de voto computado nos logs do segundo turno de 25/10/2026",
+  "status": "PROCESSAMENTO_CONCLUIDO_COM_RESSALVAS_DOCUMENTAIS",
+  "gerado_utc": "2026-10-31T00:43:03.668474+00:00",
+  "ufs": [
+    {
+      "uf": "AC",
+      "secoes_bu": 2270,
+      "logs": 2270,
+      "comparecimento_bu": 453654,
+      "eventos_observados": 453654,
+      "antes_17h_brasilia": 453496,
+      "desde_17h_brasilia_inclusive": 158,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "AL",
+      "secoes_bu": 7101,
+      "logs": 7101,
+      "comparecimento_bu": 1951632,
+      "eventos_observados": 1951632,
+      "antes_17h_brasilia": 1950986,
+      "desde_17h_brasilia_inclusive": 646,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "AM",
+      "secoes_bu": 8157,
+      "logs": 8157,
+      "comparecimento_bu": 2192059,
+      "eventos_observados": 2192059,
+      "antes_17h_brasilia": 2191055,
+      "desde_17h_brasilia_inclusive": 1004,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "AP",
+      "secoes_bu": 1914,
+      "logs": 1914,
+      "comparecimento_bu": 429975,
+      "eventos_observados": 429975,
+      "antes_17h_brasilia": 429833,
+      "desde_17h_brasilia_inclusive": 142,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "BA",
+      "secoes_bu": 35476,
+      "logs": 35476,
+      "comparecimento_bu": 9422047,
+      "eventos_observados": 9422033,
+      "antes_17h_brasilia": 9417843,
+      "desde_17h_brasilia_inclusive": 4190,
+      "diferenca": -14,
+      "status": "RESSALVA"
+    },
+    {
+      "uf": "CE",
+      "secoes_bu": 23765,
+      "logs": 23765,
+      "comparecimento_bu": 6024843,
+      "eventos_observados": 6024843,
+      "antes_17h_brasilia": 6023769,
+      "desde_17h_brasilia_inclusive": 1074,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "DF",
+      "secoes_bu": 6969,
+      "logs": 6969,
+      "comparecimento_bu": 1868280,
+      "eventos_observados": 1868280,
+      "antes_17h_brasilia": 1867300,
+      "desde_17h_brasilia_inclusive": 980,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "ES",
+      "secoes_bu": 9844,
+      "logs": 9844,
+      "comparecimento_bu": 2409214,
+      "eventos_observados": 2409214,
+      "antes_17h_brasilia": 2408920,
+      "desde_17h_brasilia_inclusive": 294,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "GO",
+      "secoes_bu": 15686,
+      "logs": 15686,
+      "comparecimento_bu": 4047280,
+      "eventos_observados": 4047280,
+      "antes_17h_brasilia": 4046546,
+      "desde_17h_brasilia_inclusive": 734,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "MA",
+      "secoes_bu": 18093,
+      "logs": 18093,
+      "comparecimento_bu": 4127771,
+      "eventos_observados": 4127735,
+      "antes_17h_brasilia": 4126814,
+      "desde_17h_brasilia_inclusive": 921,
+      "diferenca": -36,
+      "status": "RESSALVA"
+    },
+    {
+      "uf": "MG",
+      "secoes_bu": 52062,
+      "logs": 52062,
+      "comparecimento_bu": 13044203,
+      "eventos_observados": 13044203,
+      "antes_17h_brasilia": 13041950,
+      "desde_17h_brasilia_inclusive": 2253,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "MS",
+      "secoes_bu": 7106,
+      "logs": 7106,
+      "comparecimento_bu": 1594460,
+      "eventos_observados": 1594460,
+      "antes_17h_brasilia": 1594038,
+      "desde_17h_brasilia_inclusive": 422,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "MT",
+      "secoes_bu": 8287,
+      "logs": 8287,
+      "comparecimento_bu": 2085334,
+      "eventos_observados": 2085334,
+      "antes_17h_brasilia": 2084425,
+      "desde_17h_brasilia_inclusive": 909,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "PA",
+      "secoes_bu": 20827,
+      "logs": 20827,
+      "comparecimento_bu": 4989573,
+      "eventos_observados": 4989573,
+      "antes_17h_brasilia": 4988265,
+      "desde_17h_brasilia_inclusive": 1308,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "PB",
+      "secoes_bu": 10712,
+      "logs": 10712,
+      "comparecimento_bu": 2743560,
+      "eventos_observados": 2743559,
+      "antes_17h_brasilia": 2743088,
+      "desde_17h_brasilia_inclusive": 471,
+      "diferenca": -1,
+      "status": "RESSALVA"
+    },
+    {
+      "uf": "PE",
+      "secoes_bu": 21418,
+      "logs": 21418,
+      "comparecimento_bu": 6126467,
+      "eventos_observados": 6126467,
+      "antes_17h_brasilia": 6124831,
+      "desde_17h_brasilia_inclusive": 1636,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "PI",
+      "secoes_bu": 10225,
+      "logs": 10225,
+      "comparecimento_bu": 2239830,
+      "eventos_observados": 2239829,
+      "antes_17h_brasilia": 2239492,
+      "desde_17h_brasilia_inclusive": 337,
+      "diferenca": -1,
+      "status": "RESSALVA"
+    },
+    {
+      "uf": "PR",
+      "secoes_bu": 27142,
+      "logs": 27142,
+      "comparecimento_bu": 7059339,
+      "eventos_observados": 7059339,
+      "antes_17h_brasilia": 7058413,
+      "desde_17h_brasilia_inclusive": 926,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "RJ",
+      "secoes_bu": 37675,
+      "logs": 37675,
+      "comparecimento_bu": 10077449,
+      "eventos_observados": 10077449,
+      "antes_17h_brasilia": 10073299,
+      "desde_17h_brasilia_inclusive": 4150,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "RN",
+      "secoes_bu": 8115,
+      "logs": 8115,
+      "comparecimento_bu": 2232823,
+      "eventos_observados": 2232823,
+      "antes_17h_brasilia": 2232410,
+      "desde_17h_brasilia_inclusive": 413,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "RO",
+      "secoes_bu": 4698,
+      "logs": 4698,
+      "comparecimento_bu": 988489,
+      "eventos_observados": 988489,
+      "antes_17h_brasilia": 987934,
+      "desde_17h_brasilia_inclusive": 555,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "RR",
+      "secoes_bu": 1519,
+      "logs": 1519,
+      "comparecimento_bu": 308597,
+      "eventos_observados": 308597,
+      "antes_17h_brasilia": 308452,
+      "desde_17h_brasilia_inclusive": 145,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "RS",
+      "secoes_bu": 27547,
+      "logs": 27547,
+      "comparecimento_bu": 6889638,
+      "eventos_observados": 6889636,
+      "antes_17h_brasilia": 6888807,
+      "desde_17h_brasilia_inclusive": 829,
+      "diferenca": -2,
+      "status": "RESSALVA"
+    },
+    {
+      "uf": "SC",
+      "secoes_bu": 17326,
+      "logs": 17326,
+      "comparecimento_bu": 4762303,
+      "eventos_observados": 4762303,
+      "antes_17h_brasilia": 4761840,
+      "desde_17h_brasilia_inclusive": 463,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "SE",
+      "secoes_bu": 5923,
+      "logs": 5923,
+      "comparecimento_bu": 1466659,
+      "eventos_observados": 1466659,
+      "antes_17h_brasilia": 1466372,
+      "desde_17h_brasilia_inclusive": 287,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    },
+    {
+      "uf": "SP",
+      "secoes_bu": 103656,
+      "logs": 103655,
+      "comparecimento_bu": 27364389,
+      "eventos_observados": 27364121,
+      "antes_17h_brasilia": 27355261,
+      "desde_17h_brasilia_inclusive": 8860,
+      "diferenca": -268,
+      "status": "RESSALVA"
+    },
+    {
+      "uf": "TO",
+      "secoes_bu": 4384,
+      "logs": 4384,
+      "comparecimento_bu": 954763,
+      "eventos_observados": 954763,
+      "antes_17h_brasilia": 954540,
+      "desde_17h_brasilia_inclusive": 223,
+      "diferenca": 0,
+      "status": "CONCILIADO"
+    }
+  ],
+  "totais": {
+    "secoes_bu": 497897,
+    "logs": 497896,
+    "comparecimento_bu": 127854631,
+    "eventos_observados": 127854309,
+    "antes_17h_brasilia": 127819979,
+    "desde_17h_brasilia_inclusive": 34330,
+    "diferenca": -322
+  },
+  "ufs_conciliadas": 21,
+  "ufs_com_ressalvas": 6,
+  "criterio_horario": "Antes de 17:00 Brasilia versus 17:00 ou depois; ajustes locais previamente aplicados nos JSON estaduais",
+  "limitacoes": [
+    "322 eventos nao conciliados em 7 secoes de 6 UFs, sem imputacao de horario",
+    "SP: arquivo de log de uma secao ausente",
+    "Eventos individuais nao identificam candidato",
+    "Integridade documental integral nao demonstrada; preservar evidencias originais"
+  ]
+}
